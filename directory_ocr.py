@@ -340,5 +340,5 @@ class DirectoryProcessor:
 if __name__ == "__main__":
     processor = DirectoryProcessor()
     # Test with a single image
-    test_image = r"C:\Users\knath\OneDrive\Documents\GitHub\OCR trying\minesota-sample-data\Screenshot 2025-06-17 140432.png"
+    test_image = r"C:\Users\knath\OneDrive\Documents\GitHub\OCR trying\sample-data\Screenshot 2025-06-17 140432.png"
     processor.test_single_image(test_image) 

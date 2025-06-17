@@ -41,7 +41,7 @@ This project extracts structured data from historical directory images using OCR
 
 ## Usage
 
-1. **Place your directory images in the `minesota-sample-data` folder.**
+1. **Place your directory images in the `sample-data` folder.**
    - Update the image path in `directory_ocr.py` if needed.
 
 2. **Run the script:**
