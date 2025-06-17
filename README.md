@@ -1,7 +1,7 @@
 # Directory OCR
 
 This project extracts structured data from historical directory images using OCR and Python.
-
+**This is not a complete project, just a showcase**
 ## Requirements
 
 - Python 3.8+
